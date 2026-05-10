@@ -1,10 +1,6 @@
 # getQuickBlood.com
 
-### Vishrut Gupta
-### Delhi, India
-</br>
-
-**<ins>Video demo</ins>:** click [here](https://youtu.be/bUveZLK9bkQ)
+**<ins>Video demo</ins>:** click [here](https://youtu.be/bUveZLK9bkQ) \
 **Disclaimer:** This is a basic web development project built for personal practise.
 
 <br>
