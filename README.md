@@ -4,10 +4,10 @@
 ### Delhi, India
 </br>
 
-### <ins>Video demo</ins>: click [here](https://youtu.be/bUveZLK9bkQ)
-<br>
-
+**<ins>Video demo</ins>:** click [here](https://youtu.be/bUveZLK9bkQ)
 **Disclaimer:** This is a basic web development project built for personal practise.
+
+<br>
 
 ## <ins>***DESCRIPTION:***</ins>
 The coronavirus pandemic was an unprecedented global pandemic. It drastically affected us and everyone around us. It had no vaccine or cure for a long time and the lack of medical products such as medicines, injections, oxygen tanks, and blood worsened the situation. I made 'getQuickBlood.com' to work as an online blood bank that connects people in desperate need of blood with those willing to donate it. One may need a blood transfusion if they have lost blood from an injury or during surgery, or if one has certain medical conditions including Anaemia, Certain cancers, Haemophilia, Sickle cell disease, etc. Also, one cannot use just any available blood as multiple tests need to be undertaken before one can use someone else's blood and sometimes even hospitals prove ineffective in helping to find suitable blood donors. I have made 'getQuickBlood.com' in an attempt to help such people in dire and urgent need of blood. I am also working to collaborate with hospitals and other blood banks to popularise the website so an increasing number of people can benefit from it.\
